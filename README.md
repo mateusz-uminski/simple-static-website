@@ -1,9 +1,8 @@
 # simple-static-website
 
-Simply a basic static website.
-<br><br>
-Feel free to explore and copy everything you want.
-Enjoy!
+Just a simple static website.
+
+Feel free to explore and copy everything you want. Enjoy!
 
 
 # Usage
